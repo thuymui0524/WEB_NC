@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\G09\\G09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\views\\shared\\_layouttrangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\views\\shared\\_layouttrangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\controllers\\trangcanhancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\controllers\\trangcanhancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\views\\trangchu\\listbaiviet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\views\\trangchu\\listbaiviet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\views\\trangcanhan\\trangcanhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\views\\trangcanhan\\trangcanhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\views\\trangcanhan\\k_trangcanhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\views\\trangcanhan\\k_trangcanhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\controllers\\khamphacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\controllers\\khamphacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\controllers\\taobaivietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\controllers\\taobaivietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\views\\timkiem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\views\\timkiem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\models\\baiviet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\models\\baiviet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\views\\khampha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\views\\khampha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\models\\dbg09foodcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\models\\dbg09foodcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\models\\binhluan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\models\\binhluan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\service\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\service\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|d:\\g09\\g09\\g09\\service\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3DD7A8-8275-430B-9141-559D0A27BC9D}|G09\\G09.csproj|solutionrelative:g09\\service\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutTrangChu.cshtml",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Views\\Shared\\_LayoutTrangChu.cshtml",
+              "RelativeDocumentMoniker": "G09\\Views\\Shared\\_LayoutTrangChu.cshtml",
+              "ToolTip": "D:\\G09\\G09\\G09\\Views\\Shared\\_LayoutTrangChu.cshtml",
+              "RelativeToolTip": "G09\\Views\\Shared\\_LayoutTrangChu.cshtml",
+              "ViewState": "AgIAADUBAAAAAAAAAAAAAEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T14:48:04.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimKiemController.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Controllers\\TimKiemController.cs",
+              "RelativeDocumentMoniker": "G09\\Controllers\\TimKiemController.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Controllers\\TimKiemController.cs",
+              "RelativeToolTip": "G09\\Controllers\\TimKiemController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAE4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:56:54.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrangCaNhanController.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Controllers\\TrangCaNhanController.cs",
+              "RelativeDocumentMoniker": "G09\\Controllers\\TrangCaNhanController.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Controllers\\TrangCaNhanController.cs",
+              "RelativeToolTip": "G09\\Controllers\\TrangCaNhanController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAkwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:19:53.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangChuController.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Controllers\\TrangChuController.cs",
+              "RelativeDocumentMoniker": "G09\\Controllers\\TrangChuController.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Controllers\\TrangChuController.cs",
+              "RelativeToolTip": "G09\\Controllers\\TrangChuController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:55:25.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Views\\Access\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "G09\\Views\\Access\\LogIn.cshtml",
+              "ToolTip": "D:\\G09\\G09\\G09\\Views\\Access\\LogIn.cshtml",
+              "RelativeToolTip": "G09\\Views\\Access\\LogIn.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T15:06:26.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListBaiViet.cshtml",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Views\\TrangChu\\ListBaiViet.cshtml",
+              "RelativeDocumentMoniker": "G09\\Views\\TrangChu\\ListBaiViet.cshtml",
+              "ToolTip": "D:\\G09\\G09\\G09\\Views\\TrangChu\\ListBaiViet.cshtml",
+              "RelativeToolTip": "G09\\Views\\TrangChu\\ListBaiViet.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T06:51:06.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrangCaNhan.cshtml",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Views\\TrangCaNhan\\TrangCaNhan.cshtml",
+              "RelativeDocumentMoniker": "G09\\Views\\TrangCaNhan\\TrangCaNhan.cshtml",
+              "ToolTip": "D:\\G09\\G09\\G09\\Views\\TrangCaNhan\\TrangCaNhan.cshtml",
+              "RelativeToolTip": "G09\\Views\\TrangCaNhan\\TrangCaNhan.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T06:43:55.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "K_TrangCaNhan.cshtml",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Views\\TrangCaNhan\\K_TrangCaNhan.cshtml",
+              "RelativeDocumentMoniker": "G09\\Views\\TrangCaNhan\\K_TrangCaNhan.cshtml",
+              "ToolTip": "D:\\G09\\G09\\G09\\Views\\TrangCaNhan\\K_TrangCaNhan.cshtml",
+              "RelativeToolTip": "G09\\Views\\TrangCaNhan\\K_TrangCaNhan.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T12:14:53.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhamPhaController.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Controllers\\KhamPhaController.cs",
+              "RelativeDocumentMoniker": "G09\\Controllers\\KhamPhaController.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Controllers\\KhamPhaController.cs",
+              "RelativeToolTip": "G09\\Controllers\\KhamPhaController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:48:26.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaoBaiVietController.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Controllers\\TaoBaiVietController.cs",
+              "RelativeDocumentMoniker": "G09\\Controllers\\TaoBaiVietController.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Controllers\\TaoBaiVietController.cs",
+              "RelativeToolTip": "G09\\Controllers\\TaoBaiVietController.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAwwIUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:26:25.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "G09\\Controllers\\AccessController.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "G09\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:33:39.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Views\\KhamPha\\Index.cshtml",
+              "RelativeDocumentMoniker": "G09\\Views\\KhamPha\\Index.cshtml",
+              "ToolTip": "D:\\G09\\G09\\G09\\Views\\KhamPha\\Index.cshtml",
+              "RelativeToolTip": "G09\\Views\\KhamPha\\Index.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T13:58:28.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Views\\TimKiem\\Index.cshtml",
+              "RelativeDocumentMoniker": "G09\\Views\\TimKiem\\Index.cshtml",
+              "ToolTip": "D:\\G09\\G09\\G09\\Views\\TimKiem\\Index.cshtml",
+              "RelativeToolTip": "G09\\Views\\TimKiem\\Index.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T14:49:26.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "G09\\Models\\NguoiDung.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "G09\\Models\\NguoiDung.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:07:02.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbG09foodContext.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Models\\DbG09foodContext.cs",
+              "RelativeDocumentMoniker": "G09\\Models\\DbG09foodContext.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Models\\DbG09foodContext.cs",
+              "RelativeToolTip": "G09\\Models\\DbG09foodContext.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:55:30.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaiViet.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Models\\BaiViet.cs",
+              "RelativeDocumentMoniker": "G09\\Models\\BaiViet.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Models\\BaiViet.cs",
+              "RelativeToolTip": "G09\\Models\\BaiViet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:39:51.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BinhLuan.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Models\\BinhLuan.cs",
+              "RelativeDocumentMoniker": "G09\\Models\\BinhLuan.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Models\\BinhLuan.cs",
+              "RelativeToolTip": "G09\\Models\\BinhLuan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:23:23.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Program.cs",
+              "RelativeDocumentMoniker": "G09\\Program.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Program.cs",
+              "RelativeToolTip": "G09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:22:49.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "G09\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\G09\\G09\\G09\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "G09\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T12:03:46.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\appsettings.json",
+              "RelativeDocumentMoniker": "G09\\appsettings.json",
+              "ToolTip": "D:\\G09\\G09\\G09\\appsettings.json",
+              "RelativeToolTip": "G09\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T12:31:30.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Service\\IDataService.cs",
+              "RelativeDocumentMoniker": "G09\\Service\\IDataService.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Service\\IDataService.cs",
+              "RelativeToolTip": "G09\\Service\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:31:48.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "D:\\G09\\G09\\G09\\Service\\DataService.cs",
+              "RelativeDocumentMoniker": "G09\\Service\\DataService.cs",
+              "ToolTip": "D:\\G09\\G09\\G09\\Service\\DataService.cs",
+              "RelativeToolTip": "G09\\Service\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:31:43.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
